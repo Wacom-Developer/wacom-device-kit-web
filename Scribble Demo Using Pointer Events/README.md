@@ -20,17 +20,17 @@ The HTML5 Pointer Events app supports the following:
 
 The following illustrates the demo running on Chrome:  
 
-![ScribbleDemo](https://github.com/cbwinchild-devdocs/icbt-windows-sample-code-docs/blob/master/Scribble%20Demo%20Using%20Pointer%20Events%20Windows/Media/sc-rm-sdupe-demo.png)
+![ScribbleDemo](./Media/sc-rm-sdupe-demo.png)
 |	#	|Description											|
 |:-----:|:------------------------------------------------------|
-|![1](https://github.com/cbwinchild-devdocs/icbt-windows-sample-code-docs/blob/master/Scribble%20Demo%20Using%20Pointer%20Events%20Windows/Media/rm_1.png)|Indicates the browser supports HTML5 Pointer Events	|
-|![2](https://github.com/cbwinchild-devdocs/icbt-windows-sample-code-docs/blob/master/Scribble%20Demo%20Using%20Pointer%20Events%20Windows/Media/rm_2.png)	|Selectable Primary pen color							|
-|![3](https://github.com/cbwinchild-devdocs/icbt-windows-sample-code-docs/blob/master/Scribble%20Demo%20Using%20Pointer%20Events%20Windows/Media/rm_3.png)		|Selectable Secondary pen color by pen button selection	|
-|![4](https://github.com/cbwinchild-devdocs/icbt-windows-sample-code-docs/blob/master/Scribble%20Demo%20Using%20Pointer%20Events%20Windows/Media/rm_4.png)	|Pen stroke using tilt									|
-|![5](https://github.com/cbwinchild-devdocs/icbt-windows-sample-code-docs/blob/master/Scribble%20Demo%20Using%20Pointer%20Events%20Windows/Media/rm_5.png)	|Pen stroke using pressure only							|
-|![6](https://github.com/cbwinchild-devdocs/icbt-windows-sample-code-docs/blob/master/Scribble%20Demo%20Using%20Pointer%20Events%20Windows/Media/rm_6.png)		|Touch stroke											|
-|![7](https://github.com/cbwinchild-devdocs/icbt-windows-sample-code-docs/blob/master/Scribble%20Demo%20Using%20Pointer%20Events%20Windows/Media/rm_7.png)	|Mouse stroke											|
-|![8](https://github.com/cbwinchild-devdocs/icbt-windows-sample-code-docs/blob/master/Scribble%20Demo%20Using%20Pointer%20Events%20Windows/Media/rm_8.png)		|Debug window showing pointer data						|
+|![1](./Media/rm_1.png)|Indicates the browser supports HTML5 Pointer Events	|
+|![2](./Media/rm_2.png)	|Selectable Primary pen color							|
+|![3](./Media/rm_3.png)		|Selectable Secondary pen color by pen button selection	|
+|![4](./Media/rm_4.png)	|Pen stroke using tilt									|
+|![5](./Media/rm_5.png)	|Pen stroke using pressure only							|
+|![6](./Media/rm_6.png)		|Touch stroke											|
+|![7](./Media/rm_7.png)	|Mouse stroke											|
+|![8](./Media/rm_8.png)		|Debug window showing pointer data						|
 
 
 ## See Also 
