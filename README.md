@@ -34,13 +34,13 @@ The following illustrates the demo running on Chrome:
 
 
 ## See Also 
-[Overview](https://developer-docs.wacom.com/wacom-device-api/docs/web-api-overview) - HTML5 Pointer Events overview  
+[Overview](https://developer-docs.wacom.com/intuos-cintiq-business-tablets/docs/web-api-overview) - HTML5 Pointer Events overview  
 
-[Basics](https://developer-docs.wacom.com/wacom-device-api/docs/web-api-basics) - Details on how to start writing HTML5 Pointer Events applications  
+[Basics](https://developer-docs.wacom.com/intuos-cintiq-business-tablets/docs/web-api-basics) - Details on how to start writing HTML5 Pointer Events applications  
 
-[Reference](https://developer-docs.wacom.com/wacom-device-api/docs/web-api-reference) - Information on the HTML5 Pointer Events API  
+[Reference](https://developer-docs.wacom.com/intuos-cintiq-business-tablets/docs/web-api-reference) - Information on the HTML5 Pointer Events API  
 
-[FAQs](https://developer-docs.wacom.com/wacom-device-api/docs/web-api-faqs) - HTML5 Pointer Events programming tips  
+[FAQs](https://developer-docs.wacom.com/intuos-cintiq-business-tablets/docs/web-api-faqs) - HTML5 Pointer Events programming tips  
 
 ## Where To Get Help
 If you have questions about this demo or the Wintab API, please visit our support page: https://developer.wacom.com/developer-dashboard/support
