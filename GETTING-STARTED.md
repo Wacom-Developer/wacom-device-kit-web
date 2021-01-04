@@ -11,16 +11,16 @@ Once the driver has installed, and you have rebooted your system, check your tab
 
 1. Attach a supported Wacom tablet.
 2. Either open the Wacom Tablet Properties app, or the Wacom Desktop Center to determine if your tablet is recognized by the driver.
-3. Use a tablet pen to see if you can move the system cursor
+3. Use a tablet pen to see if you can move the system cursor.
 4. If your tablet supports touch, try moving the system cursor with your finger.
 5. If all of the above checks out, you may now test the sample app as described in the next section.
 
 ## Testing the sample app
 The HTML5 Pointer Events webapp sample does not need to be built. You can test the webapp by the following:
 
-1. Open a browser (eg: Chrome, Internet Explorer)
-2. Drag the HTML page onto the browser
-3. Once the page loads, you should be able to immediately use your pen, finger or mouse to draw on the page canvas area
+1. Open a browser (eg: Chrome, Internet Explorer).
+2. Drag the HTML page onto the browser.
+3. Once the page loads, you should be able to immediately use your pen, finger or mouse to draw on the page canvas area.
 
 Alternately, you can simply double click on the HTML page and your default browser will open it automatically.
 
