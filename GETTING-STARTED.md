@@ -31,7 +31,7 @@ Alternately, you can simply double click on the HTML page and your default brows
 
 [Reference](https://developer-docs.wacom.com/intuos-cintiq-business-tablets/docs/web-api-reference) - Information on the HTML5 Pointer Events API  
 
-[FAQs](https://developer-docs.wacom.com/intuos-cintiq-business-tablets/docs/web-api-faqs) - HTML5 Pointer Events programming tips  
+[FAQs](https://developer-support.wacom.com/hc/en-us/articles/12845845085975-Web-API) - HTML5 Pointer Events programming tips  
 
 ## Where to get help
 If you have questions about the sample application or any of the setup process, please visit our Support page at: https://developer.wacom.com/developer-dashboard/support
