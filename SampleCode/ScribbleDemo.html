@@ -208,7 +208,10 @@
 	<div>
 		<h1>Pointer data:</h1>
 		<button type="button" class="actionButton" onclick="clearReport()" style="font-size:20px">Clear</button>
-		<p id="showData" style="font-size:25px" onclick="toggleShowData()">Click to enable showing pointer data</p>
+		<p id="showData" style="font-size:25px">
+		<input type="checkbox" id="pointerDataCheckbox" value="reportData" onclick="logPointer()">
+		<label for="pointerDataCheckbox" style="font-size:20px">Log pointer data?</label>
+		</p>
 	</div>
 	<div class="reportDiv">
 		<output id="reportElement" style="font-size:20px"></output>
@@ -322,18 +325,11 @@
 		}
 
 		/////////////////////////////////////////////////////////////////////////
-		// Enable/disable showing of device data
+		// Sets a flag to enable/disable showing of device data
 		//
-		function toggleShowData() {
-			var label;
-			if (reportData) {
-				label = "Click to enable showing pointer data"
-			}
-			else {
-				label = "Click to disable showing pointer data"
-			}
-			reportData = !reportData;
-			document.getElementById("showData").innerHTML = label;
+		function logPointer() {
+			var reportDataVal = document.querySelector('input[value="reportData"]');
+			reportData = reportDataVal.checked;		
 		}
 
 		/////////////////////////////////////////////////////////////////////////
