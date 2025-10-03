@@ -9,7 +9,7 @@ ScribbleDemo HTML5 Pointer Events, which uses the HTML5 Pointer Events API, are 
 ## History
 * Release 2.0.1 3 October 2025
 	* Updated ScribbleDemo.html file
- * * Release 2.0.1 26 June 2020
+ * Release 2.0.1 26 June 2020
 	* Updated for release to Github
 * Releases prior to 2.0.1 (various dates)
 	* Maintenance releases not versioned
